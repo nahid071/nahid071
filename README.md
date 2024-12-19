@@ -16,15 +16,10 @@ I'm a passionate software developer with a keen interest in web development. I e
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-## GitHub Stats
-
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid071&count_private=true&show_icons=true&hide=contribs,prs&theme=radical)
 
 ## Top Languages
 
