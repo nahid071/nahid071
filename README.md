@@ -33,5 +33,4 @@ I'm a passionate software developer with a keen interest in web development. I e
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nahidzz)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:nahid@nextlevelmedia.com)
